@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+
+  <language>
+    <Name>English</Name>
+    <Difficulte>Difficulty</Difficulte>
+    <options>Settings</options>
+    <OPTIONS>SETTINGS</OPTIONS>
+    <langage>Language</langage>
+    <inverserAxeY>Invert Mouse Y</inverserAxeY>
+    <sous-titre>Subtiles</sous-titre>
+    <jeu>Games</jeu>
+    <graphique>Graphics</graphique>
+    <controle>Control</controle>
+    <son>Sound</son>
+    <nouvelleSauvegarde>New Save</nouvelleSauvegarde>
+    <jouer>Play</jouer>
+    <credit>Credit</credit>
+    <ecran>Screen</ecran>
+    <qualiter>Quality</qualiter>
+    <ombreQualiter>Shadow Quality</ombreQualiter>
+    <textureQualiter>Texture Quality</textureQualiter>
+    <AntiCrenelage>Antialiasing</AntiCrenelage>
+    <limiteFps>Fps limit</limiteFps>
+    <quitter>Quit</quitter>
+    <facile>Easy</facile>
+    <moyen>Medium</moyen>
+    <difficile>Hard</difficile>
+    <bas>Low</bas>
+    <haut>High</haut>
+    <pleinEcran>Fullsceen</pleinEcran>
+    <fenetre>Windowed</fenetre>
+    <pleineFenetre>Full Window</pleineFenetre>
+    <desactiver>OFF</desactiver>
+    <retour>Back</retour>
+    <Infini>Ilimited</Infini>
+    <avance>Move Forward</avance>
+    <Recule>Move Backward</Recule>
+    <sedeplaceragauche>Move Left</sedeplaceragauche>
+    <sedeplaceradroite>Move Right</sedeplaceradroite>
+    <interagir>Interact</interagir>
+    <courir>Sprint</courir>
+    <marche>Walk</marche>
+    <flouDeMouvement>Motion Blur</flouDeMouvement>
+    <visibiliterOmbre>Shadow Visibility</visibiliterOmbre>
+    <distanceAffichage>View Distence</distanceAffichage>
+    <principalSon>Master</principalSon>
+    <effetSonore>Sound Effects</effetSonore>
+    <musique>Music</musique>
+    <appliquer>Apply</appliquer>
+    <Anglais>English</Anglais>
+    <Francais>French</Francais>
+  </language>
+
+  <language>
+    <Name>Français</Name>
+    <Difficulte>Difficulté</Difficulte>
+    <options>Options</options>
+    <OPTIONS>OPTIONS</OPTIONS>
+    <langage>Langage</langage>
+    <inverserAxeY>Inverser l'Axe Y</inverserAxeY>
+    <sous-titre>Sous-Titre</sous-titre>
+    <jeu>Jeu</jeu>
+    <graphique>Graphique</graphique>
+    <controle>Contrôle</controle>
+    <son>Son</son>
+    <nouvelleSauvegarde>Nouvelle Sauvegarde</nouvelleSauvegarde>
+    <jouer>Jouer</jouer>
+    <credit>Crédit</credit>
+    <ecran>Ecran</ecran>
+    <qualiter>Qualité</qualiter>
+    <ombreQualiter>Ombre Qualité</ombreQualiter>
+    <textureQualiter>Texture Qualité</textureQualiter>
+    <AntiCrenelage>Anticrénelage</AntiCrenelage>
+    <limiteFps>Limite Fps</limiteFps>
+    <quitter>Quitter</quitter>
+    <facile>Facile</facile>
+    <moyen>Moyen</moyen>
+    <difficile>Difficile</difficile>
+    <bas>bas</bas>
+    <haut>Haut</haut>
+    <pleinEcran>Plein Ecran</pleinEcran>
+    <fenetre>Fenêtré</fenetre>
+    <pleineFenetre>Plein Fenêtre</pleineFenetre>
+    <desactiver>Desactiver</desactiver>
+    <retour>Retour</retour>
+    <Infini>Infini</Infini>
+    <avance>Avance</avance>
+    <recule>Recule</recule>
+    <sedeplaceragauche>Se Deplacer a Gauche</sedeplaceragauche>
+    <sedeplaceradroite>Se Deplacer a Droite</sedeplaceradroite>
+    <interagir>Interagir</interagir>
+    <courir>Courir</courir>
+    <marche>Marche</marche>
+    <flouDeMouvement>Flou De Mouvement</flouDeMouvement>
+    <visibiliterOmbre>Ombre Visibiliter</visibiliterOmbre>
+    <distanceAffichage>Distence d'Affichage</distanceAffichage>
+    <principalSon>Principal</principalSon>
+    <effetSonore>Effet Sonore</effetSonore>
+    <musique>Musique</musique>
+    <appliquer>Appliquer</appliquer>
+    <Anglais>Anglais</Anglais>
+    <Francais>Français</Francais>
+  </language>
+
+</languages>
